@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Planning",
+        "description" : "Di dalam to do app kita dapat membuat beberapa rencana atau bisa kita sebut juga planning, dimana disaat kita membuat suatu rencana lalu kita tulis di to do app itu dapat membantu untuk mendefinisikan suatu tujuan dan merumuskan bagaimana cara untuk mencapainya, hal ini tentunya dapat mempermudah user disaat membuat suatu planning.",
+        "imageId": "Planning"
+    },
+    {
+        "name": "Deadline", 
+        "description" : "Di dalam to do app kita dapat mengelola tugas tugas yang belum kita kerjakan atau kita juga bisa menambahkan jadwal terakhir dari pengumpulan tugas, setiap daftar tugas yang sudah kita list, kita bisa cek untuk mengelola tugas mana yang sudah kita kerjakan atau yang belum dikerjakan sehingga disaat ada deadline kita bisa lihat ke aplikasi to do app sehingga itu dapat mempermudah user.",
+        "imageId": "Deadline"
+    },
+    {
+        "name": "List", 
+        "description" : "Di dalam to do app ini kita dapat membuat beberapa list sehingga disaat ada beberapa hal yang akan kita lakukan lalu kita catat di to do app kita dapat menchecklist hal mana yang sudah kita lakukan sehingga dapat mempermudah user dalam melakukan suatu aktivitas.",
+        "imageId": "List"
+    }
+]
